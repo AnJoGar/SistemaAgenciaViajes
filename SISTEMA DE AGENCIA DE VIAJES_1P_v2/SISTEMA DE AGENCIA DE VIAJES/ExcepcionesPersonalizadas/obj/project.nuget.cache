@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7uR23Z+mfdok/EhUKyg9ZT9GZIGlHsoreHr4srXjuhAbZg5t/1RNiVSSEoleZWarhnAZphwQk/fYp5BtgS7Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\\SISTEMA DE AGENCIA DE VIAJES_1P\\SISTEMA DE AGENCIA DE VIAJES\\ExcepcionesPersonalizadas\\ExcepcionesPersonalizadas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

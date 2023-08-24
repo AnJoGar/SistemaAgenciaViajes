@@ -1,0 +1,69 @@
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CopyComplete
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\App.config
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll.config
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\App.config
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll.config
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Excepciones.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Excepciones.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Excepciones.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Excepciones.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\App.config
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll.config
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Datos.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Entidad.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Negocio.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Excepciones.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Datos.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Entidad.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Capa_Negocio.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\Excepciones.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.AssemblyReference.cache
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CoreCompileInputs.cache
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CopyComplete
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.pdb

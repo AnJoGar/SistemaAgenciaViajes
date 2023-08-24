@@ -1,0 +1,30 @@
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\usuario\Desktop\SISTEMA DE AGENCIA DE VIAJES1PARCIAL\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Proyectos sexto semestre (apartir de finales del primer parcial (no todos))\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\usuario\Pictures\ugciclo2\contruccion\proyectomejorado2parcial\corregido\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Luis\Downloads\Alterna proyectos\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\bin\Debug\Excepciones.pdb
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.dll
+D:\UG\2023-2024 CI\calidad de software\SISTEMA DE AGENCIA DE VIAJES_1P\SISTEMA DE AGENCIA DE VIAJES\Excepciones\obj\Debug\Excepciones.pdb

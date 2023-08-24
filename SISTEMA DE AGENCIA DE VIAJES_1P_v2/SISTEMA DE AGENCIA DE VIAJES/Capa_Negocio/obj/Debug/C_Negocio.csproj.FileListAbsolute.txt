@@ -1,0 +1,33 @@
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\bin\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\bin\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\obj\Debug\C_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\obj\Debug\C_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\obj\Debug\C_Negocio.csproj.CopyComplete
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\obj\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Negocio\obj\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\obj\Debug\C_Negocio.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Negocio\bin\Debug\Capa_Entidad.pdb

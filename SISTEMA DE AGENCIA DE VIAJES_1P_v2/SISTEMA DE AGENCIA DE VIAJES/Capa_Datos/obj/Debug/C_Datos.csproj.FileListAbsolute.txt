@@ -1,0 +1,27 @@
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\obj\Debug\C_Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\obj\Debug\C_Datos.csproj.CopyComplete
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\obj\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\5 semestre\poe\DENTAL -AV SMILE\DENT AV SMILE\C_Datos\obj\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\C_Entidad.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\bin\Debug\C_Entidad.pdb
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\C_Datos.csproj.CopyComplete
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\usuario\Pictures\ugciclo2\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\C_Datos\obj\Debug\Capa_Datos.pdb

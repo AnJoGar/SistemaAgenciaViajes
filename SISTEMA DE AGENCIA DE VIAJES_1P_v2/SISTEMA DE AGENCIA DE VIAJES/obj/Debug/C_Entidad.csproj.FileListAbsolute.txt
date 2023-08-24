@@ -1,0 +1,2 @@
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\obj\Debug\C_Entidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Pictures\ugciclo2\COmportamiento\SISTEMA DE AGENCIA DE VIAJES\SISTEMA DE AGENCIA DE VIAJES\obj\Debug\C_Entidad.csproj.CoreCompileInputs.cache
